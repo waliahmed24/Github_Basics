@@ -2,7 +2,6 @@
 <<<<<BASIC THEORY OF GITHUB:>>>>>
 
 
-
 Repository = Directory for a project
 
 Commit = saving a change (we can choose the commits to be on a particular branch)
@@ -20,7 +19,7 @@ Pull Request = while working on a forked repo we decide at some point in time th
 
 
 
-<<<<<COMMANDS IN GITHUB:>>>>>
+<<<<<CLONING A REPO FROM ANOTHER GITHUB ACCOUNT ONTO YOUR LOCAL MACHINE:>>>>>
 
 1) git init
 2) git clone <url of the repo to be cloned> //clones the specified url repo onto our local machine
